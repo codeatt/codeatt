@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hello World 👋
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jumaschion.jumaschion)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=codeatt.codeatt)
 
 My name is Sergio Bentes, and I am from Brazil 🇧🇷. 
 
@@ -46,6 +46,6 @@ More about me:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![PHP](https://img.shields.io/badge/-PHP-007ACC?style=flat-square&logo=php)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
