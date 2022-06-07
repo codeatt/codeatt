@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 My name is Sergio Bentes, and I am from Brazil 🇧🇷. 
 
-I've been working as Front-End Developer since 2019 and Back-End since 2020 unofficially.
+I've been working as Front-End Developer since 2019 and Back-End since 2020.
 
 I have worked for some projects and companies, and I love to contribute to the community.
 
