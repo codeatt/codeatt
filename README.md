@@ -27,7 +27,7 @@ I have worked for some projects and companies, and I love to contribute to the c
 
 More about me:
 
-- 🌱 I’m currently learning PHP, SQL, CSS, Laravel.
+- 🌱 I’m currently continuous learning and working with PHP, SQL, CSS, Laravel, Vuejs.
 - ⚡ Fun fact: I almost ended up working as bike courier, before getting to know the web development world.
 
 ## Follow me
